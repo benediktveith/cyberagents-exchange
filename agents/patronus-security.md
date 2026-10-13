@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-13
 name: "Patronus Security"
 author: "patronus-protect"
 github_url: "https://github.com/patronus-protect/patronus-security-cli"
